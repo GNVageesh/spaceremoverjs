@@ -1,15 +1,20 @@
 {
-  "name": "spaceremoverjs",
-  "version": "1.0.0",
-  "description": "A npm module to remove spaces",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "space",
-    "remover"
-  ],
-  "author": "gnvageesh <vageeshgn2005@gmail.com>",
-  "license": "MIT"
+	"name": "spaceremoverjs",
+	"version": "1.0.0",
+	"description": "A npm module to remove spaces",
+	"main": "index.js",
+	"keywords": [
+		"space",
+		"remover",
+		"js",
+		"module",
+		"utility",
+		"simple"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/GNVageesh/spaceremoverjs"
+	},
+	"author": "gnvageesh <vageeshgn2005@gmail.com>",
+	"license": "MIT"
 }
